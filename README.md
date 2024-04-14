@@ -8,7 +8,7 @@
 
 
 ## Education
-**Temple University | PhD Biology**
+**Temple University | MS Biology**
 
 *Spring 2022 - Current*
 - Graduate Advisor: Matthew Helmus, PhD
@@ -18,9 +18,7 @@
 **Liberty University | BS Zoology, minor in Chemistry**
 
 *Fall 2015 - Spring 2019*
-- Undergraduate Advisor: Norman Reichenbach, PhD
 - graduate of the LU Eagle Scholars Leadership Program
-- Academic memberships: NSCS National Honor Society, Biology Club, Scientific Research Society
 
 
 ## Research Projects
@@ -43,13 +41,13 @@ My project takes data science approach to tackle a biological issue. Invasive sp
 ## Grants
 **Liberty University Provost Research Initiative (PRI) Grant** 
 
-*$9,800 |	2017- 2018* 
+*2017- 2018* 
 
 This grant is in support of research project to explore crayfish ecotoxicology. Project experimental design includes collaboration efforts with Dr. Mark Blais (histology) and Dr. Todd Allen (analytical chemistry)
 
 **Virginia Academy of Science poster presentation award** 
 
-*$750 |	2017*
+*2017*
 
 Research Grant award to support research on the effects of low-level Atrazine exposure on crayfish development.
 
